@@ -16,7 +16,6 @@ bcrypt==3.2.0
 beautifulsoup4==4.12.3
 bleach==6.1.0
 blinker==1.4
-Brlapi==0.8.3
 catboost==1.2.5
 certifi==2020.6.20
 cffi==1.16.0
@@ -209,4 +208,4 @@ xgboost==2.1.0
 xkit==0.0.0
 yarl==1.9.4
 zipp==1.0.0
-guinicorn
+gunicorn
